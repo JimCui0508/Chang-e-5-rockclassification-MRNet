@@ -10,10 +10,13 @@ It contains two data set:
 
 1. earth rock dataset:divided into igneous, metamorphic and sedimentary.3 categories 
 
-
 2.CE5ROCK:processed by skimage and partly originated from CNSA Chang'e 5 lunar rover navigation and terrain camera
 I'm regret to tell you this part has not been disclosed so that it is unavailble right now(2022.5.21)
 It also contains the rock image from NASA curator of the moon, divided into 3 categories: basalt(igneous), crustal(metamorphic) and breccia(sedimentary)
+
+
+
+
 
 Before running the script you need to unzip the image data set first. Train and test set has already been divided in moderate proportion.
 
